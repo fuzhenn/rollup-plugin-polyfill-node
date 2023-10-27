@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-polyfill-node",
+  "name": "@maptalks/rollup-plugin-polyfill-node",
   "version": "0.12.0",
   "main": "dist/index.js",
   "module": "dist/es/index.js",
